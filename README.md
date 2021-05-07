@@ -20,7 +20,7 @@ Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos po
 - JPA
 - Maven
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / TypeScript
 - ReactJS
 - Apex Charts
 
